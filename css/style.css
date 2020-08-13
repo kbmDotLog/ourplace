@@ -384,7 +384,8 @@ ul.footer-list{
 
     .cta2-desktop{
         text-align: center;
-        padding: 0 10px;
+        padding: 0px 16px;
+        padding-top: 30px;
     }
 
     .cta2-img-desktop{
@@ -392,7 +393,7 @@ ul.footer-list{
     }
 
     .product{
-        padding: 0 20px;
+        padding: 0 40px;
     }
 
     .product h4{
@@ -406,7 +407,7 @@ ul.footer-list{
         border: none;
         padding: 10px;
         margin-top: 40px;
-        margin-left: 75px;
+        margin-left: 45px;
     }
 
     .dishes-desktop{
@@ -418,6 +419,8 @@ ul.footer-list{
         text-align: center;
         background: #f5f1e9;
         padding-top: 50px;
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     .dishes-text{
@@ -545,14 +548,15 @@ ul.footer-list{
 
     .cta2-desktop{
         text-align: center;
-        padding: 0 10px;
+        padding: 0 18px;
+        padding-top: 30px;
     }
     .cta2-img-desktop{
         width: 200px;
     }
 
     .product{
-        padding: 0 20px;
+        padding: 0 40px;
     }
 
     .product h4{
@@ -602,8 +606,8 @@ ul.footer-list{
     }
 
     .img{
-        width: 194px;
-        height: 200px;
+        width: 200px;
+        height: 230px;
         object-fit: cover;
     }
 
